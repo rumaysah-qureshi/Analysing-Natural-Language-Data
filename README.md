@@ -17,8 +17,8 @@ How do users of Reddit mental health communities use hedging expressions to soft
 
 ---
 ## Dataset Links
-https://www.reddit.com/r/Anxiety/?utm_source=chatgpt.com
-https://www.reddit.com/r/depression/?utm_source=chatgpt.com
+- https://www.reddit.com/r/Anxiety/?
+- https://www.reddit.com/r/depression/?
 ---
 
 ## How the scraper works
