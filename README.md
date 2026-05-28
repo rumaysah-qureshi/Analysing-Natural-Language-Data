@@ -4,18 +4,21 @@
 
 ## Research question
 
-How do users of Reddit mental health communities use hedging expressions to soften personal claims and manage the risk of sharing difficult experiences? The study looks at whether three types of hedges — epistemic hedges (*maybe*, *probably*), emotional softeners (*kind of*, *a little*), and self-protective markers (*I think*, *I feel like*) — serve distinct functions in r/Anxiety and r/depression.
+How do users of Reddit mental health communities use hedging expressions to soften personal claims and manage the risk of sharing difficult experiences? 
 
 ---
 
 ## Repository contents
 
 ```
-├── reddit_hedging_scraper.py 
-├── reddit_hedging_dataset.csv    
+├── reddit_hedging_scraper.py    
 └── README.md                       
 ```
 
+---
+## Dataset Links
+https://www.reddit.com/r/Anxiety/?utm_source=chatgpt.com
+https://www.reddit.com/r/depression/?utm_source=chatgpt.com
 ---
 
 ## How the scraper works
